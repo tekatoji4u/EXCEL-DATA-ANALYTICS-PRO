@@ -3,5 +3,5 @@
 Dưới đây là giao diện của phần mềm:
 
 <p align="center">
-  <img <img src="images/CBE7DB0A-0CC1-408E-A761-CBA89245524C.png" alt="Giao diện chính" width="700">
+  <img <img src="images/F5041FFD-03CC-4465-856A-3304FA2D72C6.png" alt="Giao diện chính" width="700">
 </p>
